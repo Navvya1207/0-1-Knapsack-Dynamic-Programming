@@ -1,6 +1,7 @@
 
 Activity on 0-1 knapsack
 
+
 Read test cases separated by lines starting with #Test.
 
 For each test case, extract:
