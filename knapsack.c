@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 #define MAX_ITEMS 100
 #define MAX_CAPACITY 1000
 #define LINE_SIZE 500
